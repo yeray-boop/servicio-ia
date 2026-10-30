@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+peticiones.csv
+peticiones_simulado.csv
+alertas.log
